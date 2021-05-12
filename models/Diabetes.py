@@ -5,6 +5,8 @@ import numpy as np
 import pandas as pd
 from sklearn.svm import SVC
 
+#python.pythonPath: /home/farzaneh/DataScientist/LearnPython/Diabetes/diabetes/.venv/bin/python3
+
 sys.path.append('/home/farzaneh/DataScientist/LearnPython/Diabetes/diabetes/src/features/')
 import build_features
 from build_features import *
